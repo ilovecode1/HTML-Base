@@ -1,3 +1,13 @@
+#Version Info
+
+#1.1.0
+
+Modernizr 2.8.3
+
+#1.0.0
+
+Release
+
 #Is your Site HTML-Base Certified?
 
 Add Your Site To The List at https://github.com/ilovecode1/HTML-Base/wiki
