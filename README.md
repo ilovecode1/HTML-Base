@@ -1,5 +1,9 @@
 #Version Info
 
+#1.1.2
+
+Remove Moblify
+
 #1.1.0
 
 Modernizr 2.8.3
