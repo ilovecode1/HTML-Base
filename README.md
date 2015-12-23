@@ -1,5 +1,9 @@
 #Version Info
 
+#1.1.4
+
+Remove Modernizr for bugs.
+
 #1.1.2
 
 Remove Moblify
